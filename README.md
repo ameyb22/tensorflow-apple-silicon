@@ -2,6 +2,8 @@
 
 **Just clone the repository and execute the shell script**
 
+$ sh ~/script.sh
+
 ***What the shell script do?***
 
 1. Installs [Homebrew](https://brew.sh/)
