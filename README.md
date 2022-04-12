@@ -4,6 +4,10 @@
 
 $ sh ~/script.sh
 
+1. execute [script.sh](https://github.com/ameyb22/tensorflow-apple-silicon/blob/main/script.sh) if homebrew and miniforge is already installed on the system.
+
+2. execute [script1.sh](https://github.com/ameyb22/tensorflow-apple-silicon/blob/main/script1.sh) to install whole package listed below.
+
 ***What the shell script do?***
 
 1. Installs [Homebrew](https://brew.sh/)
