@@ -1,8 +1,8 @@
-This repo is to setup anaconda environment with just single shell script.
+*This repo is to setup Tensorflow environment on Apple Silicon Mac without any hassle.*
 
 **Just clone the repository and execute the shell script**
 
-What the shell script do?
+***What the shell script do?***
 
 1. Installs [Homebrew](https://brew.sh/)
 2. then Installs [miniforge3](https://github.com/conda-forge/miniforge)
@@ -20,4 +20,4 @@ Next step to install [Tensorflow](https://www.tensorflow.org/) for Apple Silicon
     5. [scikit-learn](https://scikit-learn.org/stable/)
     6. [ipykernel](https://pypi.org/project/ipykernel/)
 
-Thank You!
+*Thank You!*
