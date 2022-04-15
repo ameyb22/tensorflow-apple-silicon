@@ -1,8 +1,8 @@
 *This repo is to setup Tensorflow environment on Apple Silicon Mac without any hassle.*
 
-**Just clone the repository and execute the shell script**
+**Just clone the repository and execute the shell script:**
 
-$ sh ~/script.sh
+    sh ~/script.sh
 
 1. execute [script.sh](https://github.com/ameyb22/tensorflow-apple-silicon/blob/main/script.sh) if homebrew and miniforge is already installed on the system.
 
